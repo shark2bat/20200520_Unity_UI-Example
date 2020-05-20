@@ -1,0 +1,5 @@
+[{"id":100,"name":"Money Hunt","icon_res_name":"misson_img_collect","desc":"Collect {0} Golds","goal":10000,"reward_id":0,"reward_amount":5},
+{"id":101,"name":"Life is game","icon_res_name":"misson_img_goal","desc":"Play {0} times","goal":500,"reward_id":2,"reward_amount":10},
+{"id":102,"name":"Monster Killer","icon_res_name":"misson_img_kill","desc":"Kill {0} monsters","goal":300,"reward_id":1,"reward_amount":300},
+{"id":103,"name":"To Next","icon_res_name":"misson_img_key","desc":"New Episode open","goal":0,"reward_id":2,"reward_amount":5},
+{"id":104,"name":"Higher","icon_res_name":"misson_img_crown","desc":"Reach Level {0}","goal":10,"reward_id":2,"reward_amount":10}]
